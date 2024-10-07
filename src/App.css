@@ -1,0 +1,8 @@
+::-webkit-scrollbar {
+    width: 0;
+}
+.App{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
